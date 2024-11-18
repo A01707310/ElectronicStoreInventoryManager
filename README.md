@@ -12,4 +12,5 @@ Download the next directory from the main branch 'Avance Final (FUNCIONAL)', ent
 `g++ main.cpp Cliente.cpp Electronico.cpp Periferico.cpp Factura.cpp Pedido.cpp Tienda.cpp -o programa`
 
 UML Diagram
+
 ![UML Diagram](https://github.com/user-attachments/assets/ed220a67-2d93-4e7e-9e5c-de793d376b18)
