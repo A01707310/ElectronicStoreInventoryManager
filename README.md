@@ -7,5 +7,9 @@ Having a **complete control over the inventory** is a **primordial** task that a
 ## Why is it interesting?
 This is interesting from the coding side because it enhaces the developer's comprehension on the extense amount of concepts involved in OOP. From an electronics store inventory manager, this eases the for it way to achieve a nice control over what's happening inside its business and also for it to planify informedly.
 
+## Using and compiling
+Download the next directory from the main branch 'Avance Final (FUNCIONAL)', enter to the downloaded directory and run the next code:
+`g++ main.cpp Cliente.cpp Electronico.cpp Periferico.cpp Factura.cpp Pedido.cpp Tienda.cpp -o programa`
+
 UML Diagram
 ![UML Diagram](https://github.com/user-attachments/assets/aaf124c4-7e2e-4d2b-8620-66ffdaf93607)
