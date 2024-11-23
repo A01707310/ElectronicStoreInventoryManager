@@ -9,7 +9,7 @@ This is interesting from the coding side because it enhaces the developer's comp
 
 ## Using and compiling
 Download the next directory from the main branch 'Avance Final (FUNCIONAL)', enter to the downloaded directory and run the next code:
-`g++ main.cpp Cliente.cpp Electronico.cpp Periferico.cpp Factura.cpp Pedido.cpp Tienda.cpp -o programa`
+`g++ main.cpp -o programa`
 
 UML Diagram
 
