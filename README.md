@@ -13,4 +13,4 @@ Download the next directory from the main branch 'Avance Final (FUNCIONAL)', ent
 
 UML Diagram
 
-![UML Diagram](https://github.com/user-attachments/assets/2877333c-f784-451e-8f13-c640a34e1c15)
+![UML Diagram](https://github.com/user-attachments/assets/e1ac2e8d-45c3-4ec2-ab86-c82bcb36ec31)
